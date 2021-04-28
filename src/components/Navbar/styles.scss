@@ -1,0 +1,22 @@
+// import { makeStyles, fade } from '@material-ui/core'
+
+
+// const drawerWidth=0;
+
+// export default makeStyles((theme)=>({
+  
+// }))
+
+.hello{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+   .name-logo{
+       font-size: 1.1rem;
+       display: flex;
+       align-items: center;
+       text-decoration: none;
+       color: azure;
+       font-family: Roboto, sans-serif;
+    }
+}
